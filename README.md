@@ -104,18 +104,6 @@ Servidor LLM local con **Ollama y LLaMA 3.1** accesible desde cualquier disposit
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
